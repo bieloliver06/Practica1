@@ -1,0 +1,15 @@
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\BIEL_OLIVER_P2_1\obj\Debug\net7.0\BIEL_OLIVER_P2_1.csproj.AssemblyReference.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\BIEL_OLIVER_P2_1\obj\Debug\net7.0\BIEL_OLIVER_P2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\BIEL_OLIVER_P2_1\obj\Debug\net7.0\BIEL_OLIVER_P2_1.AssemblyInfoInputs.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\BIEL_OLIVER_P2_1\obj\Debug\net7.0\BIEL_OLIVER_P2_1.AssemblyInfo.cs
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\BIEL_OLIVER_P2_1\obj\Debug\net7.0\BIEL_OLIVER_P2_1.csproj.CoreCompileInputs.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\BIEL_OLIVER_P2_1\bin\Debug\net7.0\BIEL_OLIVER_P2_1.exe
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\BIEL_OLIVER_P2_1\bin\Debug\net7.0\BIEL_OLIVER_P2_1.deps.json
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\BIEL_OLIVER_P2_1\bin\Debug\net7.0\BIEL_OLIVER_P2_1.runtimeconfig.json
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\BIEL_OLIVER_P2_1\bin\Debug\net7.0\BIEL_OLIVER_P2_1.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\BIEL_OLIVER_P2_1\bin\Debug\net7.0\BIEL_OLIVER_P2_1.pdb
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\BIEL_OLIVER_P2_1\obj\Debug\net7.0\BIEL_OLIVER_P2_1.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\BIEL_OLIVER_P2_1\obj\Debug\net7.0\refint\BIEL_OLIVER_P2_1.dll
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\BIEL_OLIVER_P2_1\obj\Debug\net7.0\BIEL_OLIVER_P2_1.pdb
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\BIEL_OLIVER_P2_1\obj\Debug\net7.0\BIEL_OLIVER_P2_1.genruntimeconfig.cache
+C:\Users\anxoa\Documents\Escola\Programació i tractament de dades\BIEL_OLIVER_P2_1\obj\Debug\net7.0\ref\BIEL_OLIVER_P2_1.dll
