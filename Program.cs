@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            int N;
+            int n;
             int added = 0;
             int lastChecked = 0;
             int i = 1;
@@ -16,7 +16,7 @@
                 {
                     try
                     {
-                        N = int.Parse(input);
+                        n = int.Parse(input);
                         break;
                     }
                     catch (System.FormatException)
@@ -25,7 +25,7 @@
                     }
                 }
             }
-            while (i < N)
+            while (i < n)
             {
                 lastChecked++;
                 if (lastChecked % 2 == 0)
@@ -35,7 +35,7 @@
                     lastChecked++;
                 }
             }
-            Console.WriteLine($"La suma dels primers {N} nombres parells dona : {added}");
+            Console.WriteLine($"La suma dels primers {n} nombres parells dona : {added}");
         }
     }
 }
