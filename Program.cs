@@ -6,6 +6,7 @@
         {
             int N;
             int added = 0;
+            int added2 = 0;
             int lastChecked = 0;
             int i = 1;
             while (true)
