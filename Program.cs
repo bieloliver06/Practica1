@@ -25,11 +25,13 @@
                     }
                 }
             }
+            Console.WriteLine("0 ");
             while (i < n)
             {
                 lastChecked++;
                 if (lastChecked % 2 == 0)
                 {
+                    Console.Write(lastChecked + " ");
                     added += lastChecked;
                     i++;
                     lastChecked++;
